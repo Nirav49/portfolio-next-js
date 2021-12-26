@@ -4,7 +4,7 @@ export const projects = [
   /*   description:
       "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
     */ image: "/images/icon-5359553__340.webp",
-    tags: ["MongoDB", "React-js", "Node-js","Next-js"],
+    tags: ["React-js", "Node-js","Next-js","Ethereum-Solidity"],
    /*  source: "https://google.com",
     visit: "https://google.com", */
     id: 0,
@@ -14,7 +14,7 @@ export const projects = [
    /*  description:
       "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
     */ image: "/images/icon-5359553__340.webp",
-    tags:["MongoDB", "React-js", "Node-js","Next-js"],
+    tags:["React-js", "Node-js","Next-js","Ethereum-Solidity"],
 /*     source: "https://google.com",
     visit: "https://google.com", */
     id: 1,
